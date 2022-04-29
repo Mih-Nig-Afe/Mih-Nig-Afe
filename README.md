@@ -1,4 +1,4 @@
-    Hi there 👋 My Name is Mihretab Nigatu
+    Hi there 👋 I am Mihretab Nigatu
 - 🔭 I’m currently working on Flutter , Dart , Python , C++ and HTML.
 - 🌱 I’m currently learning in Preparatory school Hawasssa.
 - 🤔 I’m looking for help with error I mostly face when I try to code.
