@@ -5,3 +5,6 @@
 - 💬 Ask me about Linux and the above languges I use.
 - 📫 How to reach me: Telegram :- @FEDMNLB
 - 😄 Pronouns: English and Amharic
+
+
+https://github-readme-stats.vercel.app/api?username=Mih-Nig-Afe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
