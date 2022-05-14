@@ -1,4 +1,4 @@
-    Hi there 👋 I am Mihretab Nigatu
+    Hi there 👋 I am Frontend Developer Mihretab Nigatu
 - 🔭 I’m currently working on Flutter , Dart , Python , C++ and HTML.
 - 🌱 I’m currently learning in Ethiopia Preparatory school.
 - 🤔 I’m looking for help with error I mostly face when I try to code.
