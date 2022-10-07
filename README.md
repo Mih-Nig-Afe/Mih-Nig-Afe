@@ -1,5 +1,5 @@
-    Hi there 👋 I am Frontend Developer Mihretab Nigatu
-- 🔭 I’m currently working on Flutter , Dart , Python , C++ and Web Development(HTML,CSS and JS).
+    Hi there 👋 I am Web-Developer Mihretab Nigatu
+- 🔭 I’m currently working on Dart(Flutter) , Python , C++ and Web Development(HTML,CSS and JS).
 - 🌱 I’m currently learning in Ethiopia Preparatory school.
 - 🤔 I’m looking for help with error I mostly face when I try to code.
 - 💬 Ask me about Linux and the above languges I use.
