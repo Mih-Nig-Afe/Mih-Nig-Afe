@@ -28,16 +28,17 @@ Here are the tools I wield to bring my visions to life:
 ## 🚀 Open Source Contributions
 
 [![Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Mih-Nig-Afe&layout=compact&theme=dark)](https://github.com/Mih-Nig-Afe)
+<!--
 
 ---
-/**
 ## 🌟 Fun Facts
 - 🥤 **Coca-Cola** is my secret weapon – it keeps me powered through long coding sessions. ⚡🍹
 - 📚 I'm a **bookworm** who devours everything from tech articles to philosophy, always expanding my mind. 📖✨
 - 🎮 When I'm not building the future, you can find me **gaming**—pushing my limits in virtual worlds. 🕹️🔥
 - 🌍 I'm deeply passionate about solving real-world challenges, using technology to make an impact. 🌱💡
 - 🏛️ As an **architect** at heart, I love blending creativity with structure to design functional and beautiful spaces. 🏠🎨
-**/
+
 ---
 
 **Let’s build something extraordinary together!** 💻🔥🚀
+-->
