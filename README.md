@@ -16,9 +16,9 @@ Hello there! 👾 I'm Mihretab, a software architect and code enthusiast, driven
 Here are the tools I wield to bring my visions to life:
 
 - 🔧 **Languages**: Python, JavaScript, C++, HTML, CSS, Java, SQL
-- 🧠 **Frameworks & Libraries**: React, Django, Flask, Node.js, TensorFlow
+- 🧠 **Frameworks & Libraries**: React, Django, Flask, Node.js
 - 💾 **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-- ⚙️ **Tools & Platforms**: Git, Docker, Kubernetes, Jenkins, AWS, GCP
+- ⚙️ **Tools & Platforms**: Git, Docker, Jenkins, AWS
 - 🔍 **Special Interests**: **Machine Learning**, **AI**, **IoT**, **Blockchain**
 
 ## 📊 GitHub Stats
