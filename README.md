@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MIH-NIG-AFE</h1>
+  <h1>MIHRETAB NIGATU</h1>
   <h3>SYSTEMS FUTURIST</h3>
   <p>
     Systems should feel alive. I build automations that think, products that scale, and interfaces that respond with intent.
