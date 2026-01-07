@@ -42,19 +42,44 @@ I design **adaptive, observable, mission-grade software**—from autonomous ML a
 </div>
 
 ---
-
 ## ⚡ Signal Bars (Live Telemetry)
 
-| Capability | Signal |
-| :--- | :--- |
-| Telegram Bot Orchestration | `█████████░` **92%** |
-| Python · ML Systems | `███████░░░` **75%** |
-| JavaScript / Node Graphs | `████████░░` **88%** |
-| React Experience Layer | `███████░░░` **82%** |
-| AI/Automation Pipelines | `███████░░░` **75%** |
-| Compiled Systems (C++/Java) | `██████░░░░` **72%** |
+<div align="center">
 
-*Signals reflect shipped systems with telemetry.*
+<table>
+  <tr align="center">
+    <td>
+      <b>Telegram Bot Orchestration</b><br/>
+      <img src="https://img.shields.io/badge/92%25-Telegram%20Bot%20Orchestration-00f2ea?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>
+    <td>
+      <b>Python · ML Systems</b><br/>
+      <img src="https://img.shields.io/badge/75%25-Python%20%2F%20ML%20Systems-ffbf00?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td>
+      <b>JavaScript / Node Graphs</b><br/>
+      <img src="https://img.shields.io/badge/88%25-JavaScript%20%2F%20Node%20Graphs-f7df1e?style=for-the-badge&logo=node.js&logoColor=black" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>React Experience Layer</b><br/>
+      <img src="https://img.shields.io/badge/82%25-React%20Experience%20Layer-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td>
+      <b>AI / Automation Pipelines</b><br/>
+      <img src="https://img.shields.io/badge/75%25-AI%20%2F%20Automation%20Pipelines-ff6f61?style=for-the-badge" />
+    </td>
+    <td>
+      <b>Compiled Systems (C++ / Java)</b><br/>
+      <img src="https://img.shields.io/badge/72%25-C%2B%2B%20%2F%20Java-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Signals reflect shipped systems with telemetry.</i></p>
+
+</div>
 
 ---
 
@@ -88,9 +113,7 @@ I design **adaptive, observable, mission-grade software**—from autonomous ML a
 
 <br />
 
-<a href="https://github.com/Mih-Nig-Afe">
-  <img src="https://streak-stats.demolab.com/?user=Mih-Nig-Afe&theme=tokyonight&hide_border=true&background=0D1117" />
-</a>
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Mih-Nig-Afe&theme=tokyonight&hide_border=true)](https://github.com/Mih-Nig-Afe)
 
 <br />
 
