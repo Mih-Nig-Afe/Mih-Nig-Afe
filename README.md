@@ -1,9 +1,7 @@
 <div align="center">
   <h1>MIHRETAB NIGATU</h1>
-  <h3>SYSTEMS FUTURIST</h3>
-  <p>
-    Systems should feel alive. I build automations that think, products that scale, and interfaces that respond with intent.
-  </p>
+  <h3>SYSTEMS FUTURIST · SOFTWARE ENGINEER</h3>
+  <p>Systems should feel alive. I build automations that think, products that scale, and interfaces that respond with intent.</p>
 </div>
 
 <div align="center">
@@ -15,47 +13,31 @@
   </a>
 </div>
 
-<br />
-
 ---
 
 ## 🔭 Mission Control
+> **Loop:** Learn → Experiment → Measure → Ship → Iterate
 
-> **Loop:** `Learn` → `Experiment` → `Measure` → `Ship` → `Iterate`
+I design **adaptive, observable, mission-grade software**—from autonomous ML agents to edge IoT meshes—fusing AI, robotics, and experience into a single feedback loop.
 
-I am a **Systems Futurist** focused on creating value-driven, adaptive, and observable software. My work spans from autonomous ML agents to edge IoT meshes, always with the goal of fusing AI, robotics, and user experience into a single continuous loop.
-
-- **Autonomous ML Agents**: Powering ops, comms, and telemetry loops.
-- **Edge + IoT Meshes**: Translating real-world signals into actionable data streams.
-- **Developer Copilots**: Upgrading rituals into self-healing pipelines.
-- **Mission-Grade Software**: Engineered with clean contracts, observability, and ruthless reliability.
+- **Autonomous ML Agents**: Ops, comms, and telemetry with closed-loop learning.
+- **Edge + IoT Meshes**: Real-world signals → actionable streams.
+- **Developer Copilots**: Rituals upgraded into self-healing pipelines.
+- **Mission-Grade Software**: Clean contracts, observability, ruthless reliability.
 
 ---
 
 ## 🛠 Core Stack
-
 <div align="center">
 
-### Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,sql&theme=dark" />
-  </a>
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,sql&theme=dark" />
 
-### Frameworks & Libraries
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,flutter&theme=dark" />
-  </a>
-</p>
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,flutter&theme=dark" />
 
-### Data, Infra & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,githubactions,linux,git,gcp&theme=dark" />
-  </a>
-</p>
+**Data · Infra · Tools**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,githubactions,linux,git,gcp&theme=dark" />
 
 </div>
 
@@ -65,14 +47,14 @@ I am a **Systems Futurist** focused on creating value-driven, adaptive, and obse
 
 | Capability | Signal |
 | :--- | :--- |
-| **Python · ML Systems** | `█████████░` **95%** |
-| **Telegram Bot Orchestration** | `█████████░` **92%** |
-| **JavaScript / Node Graphs** | `████████░░` **88%** |
-| **React Experience Layer** | `███████░░░` **82%** |
-| **AI/Automation Pipelines** | `███████░░░` **75%** |
-| **Compiled Systems (C++/Java)** | `██████░░░░` **72%** |
+| Telegram Bot Orchestration | `█████████░` **92%** |
+| Python · ML Systems | `███████░░░` **75%** |
+| JavaScript / Node Graphs | `████████░░` **88%** |
+| React Experience Layer | `███████░░░` **82%** |
+| AI/Automation Pipelines | `███████░░░` **75%** |
+| Compiled Systems (C++/Java) | `██████░░░░` **72%** |
 
-> *Each signal reflects shipped systems—with telemetry to prove it.*
+*Signals reflect shipped systems with telemetry.*
 
 ---
 
@@ -80,16 +62,15 @@ I am a **Systems Futurist** focused on creating value-driven, adaptive, and obse
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Food Delivery Platform** | A comprehensive food delivery ecosystem with real-time tracking, order management, and seamless user experience. | `Telegram Bot` `Python` `Firebase` `Maps API` |
-| **Social Facial Recognition** | Auto-trained facial recognition and identification system capable of real-time identity verification. | `Python` `OpenCV` `Deep Learning` |
-| **[Voice-Assistant](https://github.com/Mih-Nig-Afe/Voice-Assistant)** | AI-powered voice assistant for natural interaction. | `Python` `AI` |
-| **[Portfolio](https://github.com/Mih-Nig-Afe/Portfolio)** | Personal portfolio showcasing my journey and skills. | `Web` |
-| **Telegram Bots** | Custom automated bots for community management and ops. | `Python` `Telegram API` |
+| Food Delivery Platform | Real-time tracking, order ops, and seamless UX. | `Telegram Bot` `Python` `Firebase` `Maps API` |
+| [Social Facial Recognition](https://github.com/Mih-Nig-Afe/SocialVision-Facial-Recognition-Search) | Real-time identity verification, auto-trained. | `Python` `OpenCV` `Deep Learning` |
+| [Voice-Assistant](https://github.com/Mih-Nig-Afe/Voice-Assistant) | Natural interaction voice agent. | `Python` `AI` |
+| [Portfolio](https://github.com/Mih-Nig-Afe/Portfolio) | Journey, work, and capabilities. | `Web` |
+| Telegram Bots | Custom automation for communities and ops. | `Python` `Telegram API` |
 
 ---
 
 ## 📈 Signal Feed
-
 <div align="center">
 
 <a href="https://github.com/Mih-Nig-Afe">
@@ -120,7 +101,6 @@ I am a **Systems Futurist** focused on creating value-driven, adaptive, and obse
 ---
 
 ## 📡 Contact & Collaboration
-
 <div align="center">
 
 <a href="https://mih-nig-afe.github.io">
@@ -133,10 +113,9 @@ I am a **Systems Futurist** focused on creating value-driven, adaptive, and obse
   <img src="https://img.shields.io/badge/Telegram-@MihNig-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<br />
-<br />
+<br /><br />
 
-### “Always building. Always improving. Always curious.”
-*Let’s design the next intelligent system together.*
+<h4>“Always building. Always improving. Always curious.”</h4>
+<p>Let’s design the next intelligent system together.</p>
 
 </div>
